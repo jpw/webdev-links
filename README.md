@@ -5,6 +5,10 @@ Handy references for building web sites.
 
 * [Contextually Marking up accessible images and SVGs](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)
 
+## GitHub
+
+* [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+
 ## misc
 
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
