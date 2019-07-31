@@ -13,6 +13,10 @@ Handy references for building web sites.
 
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 
+## node
+
+* [Node best practices](https://github.com/i0natan/nodebestpractices)
+
 ## web performance
 
 * [Populating the page: how browsers work
