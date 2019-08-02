@@ -16,6 +16,7 @@ Handy references for building web sites.
 ## node
 
 * [Node best practices](https://github.com/i0natan/nodebestpractices)
+* [Node error handling](https://www.joyent.com/node-js/production/design/errors)
 
 ## web performance
 
