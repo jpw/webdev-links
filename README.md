@@ -12,6 +12,8 @@ Handy references for building web sites.
 ## misc
 
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
+* [JSON Web Tokens](https://jwt.io/)
+* [Choose Boring Technology](http://boringtechnology.club/
 
 ## node
 
