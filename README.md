@@ -19,7 +19,7 @@ Handy references for building web sites.
 ## node
 
 * [Node best practices](https://github.com/i0natan/nodebestpractices)
-* [JSDoc](https://jsdoc.app/howto-commonjs-modules.html) commenting for node
+* [JSDoc commenting for node](https://jsdoc.app/howto-commonjs-modules.html)
 * [Node error handling](https://www.joyent.com/node-js/production/design/errors)
    * operational error in async function? create/pass Error to callback. Client handles in cb.
    * operational error in synchronous function? typically throw, sometimes return Error, or emit Error on an EventEmitter. Client handles in try/catch.
