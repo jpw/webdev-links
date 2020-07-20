@@ -32,6 +32,10 @@ Handy references for building web sites.
       * Built-in JavaScript names you may want to reuse include "RangeError" and "TypeError".
       * Augment the Error object with properties that explain details, e.g. if you failed to connect to a server, use `remoteIp` to say which IP you tried to connect to. Sanitise it.
 
+## web components
+
+ * [All the Ways to Make a Web Component - June 2020 Update](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
+ 
 ## web performance
 
 * [Populating the page: how browsers work
