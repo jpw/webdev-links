@@ -5,6 +5,10 @@ Handy references for building web sites.
 
 * [Contextually Marking up accessible images and SVGs](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)
 * [Accessible SVG Line Graphs](https://tink.uk/accessible-svg-line-graphs/)
+
+### alt's (are not as simple as you think)
+
+* W3.org [alt authoring decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
 * [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
 * [Poet Training Tool](https://poet.diagramcenter.org/how.html) an image description resource that helps people learn when and how to describe various types of images
 
