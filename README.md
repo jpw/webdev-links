@@ -22,6 +22,7 @@ Handy references for building web sites.
 * [JSON Web Tokens](https://jwt.io/)
    JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 * [Choose Boring Technology](http://boringtechnology.club/)
+* [On Dogmatism](https://css-tricks.com/increasing-wariness-dogmatism/)
 
 ## node
 
