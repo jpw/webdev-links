@@ -20,6 +20,10 @@ Handy references for building web sites.
 
 * [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 
+## Jest :weary:
+
+* [A nice guide to mocking your code in Jest](https://codeburst.io/module-mocking-in-jest-ff174397e5ff)
+
 ## misc
 
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
