@@ -63,3 +63,11 @@ Handy references for building web sites.
 ](https://developer.mozilla.org/en-US/docs/Web/Performance/Populating_the_page:_how_browsers_work)
 * [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/)
   ![JavaScript Loading Priorities in Chrome table](img/js-prios.png?raw=true)
+  
+## UX
+
+* https://www.nngroup.com/
+* https://lawsofux.com/
+* https://www.interaction-design.org/literature/article/what-is-interaction-design
+* https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/
+
