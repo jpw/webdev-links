@@ -5,6 +5,7 @@ Handy references for building web sites.
 
 * [Contextually Marking up accessible images and SVGs](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)
 * [Accessible SVG Line Graphs](https://tink.uk/accessible-svg-line-graphs/)
+* https://a11ysupport.io/ - which browser supports what a11y feature
 
 ### alt's (are not as simple as you think)
 
