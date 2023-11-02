@@ -24,6 +24,7 @@ Handy references for building web sites.
 ## Jest :weary:
 
 * [A nice guide to mocking your code in Jest](https://codeburst.io/module-mocking-in-jest-ff174397e5ff)
+* relatedly, [Mock Service Worker](https://mswjs.io/docs): mock the network, not your client.
 
 ## misc
 
