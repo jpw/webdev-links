@@ -65,6 +65,7 @@ Handy references for building web sites.
 ](https://developer.mozilla.org/en-US/docs/Web/Performance/Populating_the_page:_how_browsers_work)
 * [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/)
   ![JavaScript Loading Priorities in Chrome table](img/js-prios.png?raw=true)
+* [Deep dive into BlinkNG rendering](https://developer.chrome.com/docs/chromium/blinkng)
   
 ## UX
 
