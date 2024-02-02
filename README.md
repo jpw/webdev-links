@@ -3,6 +3,7 @@ Handy references for building web sites.
 
 ## accessibility (a11y)
 
+* [Quick Assess in Accessibility Insights for Web](https://accessibilityinsights.io/docs/web/getstarted/quickassess/) - Quick Assess is a process that measures limited compliance with Web Content Accessibility Guidelines (WCAG) 2.1 Level AA success criteria 
 * [Contextually Marking up accessible images and SVGs](https://www.scottohara.me/blog/2019/05/22/contextual-images-svgs-and-a11y.html)
 * [Accessible SVG Line Graphs](https://tink.uk/accessible-svg-line-graphs/)
 * https://a11ysupport.io/ - which browser supports what a11y feature
