@@ -14,6 +14,9 @@ Handy references for building web sites.
 * [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
 * [Poet Training Tool](https://poet.diagramcenter.org/how.html) an image description resource that helps people learn when and how to describe various types of images
 
+## architecture
+* https://infrequently.org/2024/11/if-not-react-then-what/
+
 ## dataviz
 
 * Financial Times Visual Vocabulary [GH](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary) [site](https://ft-interactive.github.io/visual-vocabulary/)
